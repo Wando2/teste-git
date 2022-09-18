@@ -1,0 +1,32 @@
+*{
+ margin: 0;
+ 
+}
+
+
+.container{
+    display: flex;
+    max-width: 1000px;
+    margin: 0 auto;
+    flex-direction: column;
+}
+
+.xerecu{
+background: blue;
+height: 200px;
+width: 200px;
+box-sizing: border-box;
+padding: 100px;
+}
+
+.buceta{ background: red;
+height: 200px;
+width: 200px;
+padding: 200px;
+}
+
+.fodase{
+    background: brown;
+    height: 200px; 
+    width: 200px;
+}
